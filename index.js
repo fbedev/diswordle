@@ -14,4 +14,4 @@ client.commands = new Collection();
 require("./handlers/command")(client);
 require("./handlers/event")(client);
 
-client.login(process.env.BOT_TOKEN);
+client.login('MTEyNjM0MzE0NzY0ODE4ODUxNg.GLSpJs.Pj0QYvqi3THPxCyzV5Y9XKEslaj-6n0_g2sJPg');
